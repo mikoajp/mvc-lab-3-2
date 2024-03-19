@@ -1,0 +1,6 @@
+Numer albumu: 42893
+Imię: Mikołaj
+Nazwisko: Przybysz
+Płeć: male
+Wiek: 22
+Kierunek: aplikacje internetowe
